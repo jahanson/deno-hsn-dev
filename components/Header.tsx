@@ -1,6 +1,7 @@
 import {
   IconBrandBluesky,
   IconBrandGithub,
+  IconBrandLinkedin,
   IconBrandMastodon,
 } from "@tabler/icons-preact";
 
@@ -52,6 +53,17 @@ export function Header() {
                   title="Bluesky"
                 >
                   <IconBrandBluesky size={24} />
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.linkedin.com/in/josephhanson/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="text-gray-300 hover:text-white transition-colors"
+                  title="LinkedIn"
+                >
+                  <IconBrandLinkedin size={24} />
                 </a>
               </li>
             </ul>
