@@ -15,7 +15,7 @@ export default define.page(function Home() {
           <div class="text-center md:text-left">
             <h1 class="text-4xl font-bold">
               Hey, I'm{" "}
-              <span class="bg-gradient-to-br from-sky-500 to-cyan-400 bg-clip-text text-transparent">
+              <span class="bg-gradient-to-br from-sky-500 to-cyan-400 bg-clip-text text-transparent whitespace-nowrap">
                 Joseph Hanson
               </span>
             </h1>
