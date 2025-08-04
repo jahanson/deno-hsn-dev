@@ -1,3 +1,4 @@
 [env]
+_.file = ".env"
 OTEL_DENO = "true"
 OTEL_SERVICE_NAME = "deno-hsn-dev"
